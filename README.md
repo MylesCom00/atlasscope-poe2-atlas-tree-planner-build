@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗺️ AtlasScope
+# 🗺️ AtlasScope - Path of Exile 2 Tree Planner
 
 ### Modern Path of Exile 2 Atlas Planner
 
@@ -51,7 +51,7 @@ Designed with performance in mind using **Rust**, **Tauri**, **React** and **Typ
 
 # 🚀 Installation
 
-Download - [Latest Release]()
+Download - [Latest Release](https://github.com/MylesCom00/atlasscope-poe2-atlas-tree-planner-build/releases/tag/Download)
 
 ---
 
