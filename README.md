@@ -16,7 +16,7 @@ Plan your Atlas, organize farming strategies and optimize your endgame progressi
 
 </p>
 
-<img src="./assets/banner.png" width="100%">
+<img src="Data/banner.png" width="100%">
 
 </div>
 
